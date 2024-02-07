@@ -322,3 +322,4 @@ def main(cfg: DictConfig) -> None:
 if __name__ == "__main__":
     os.environ["SDL_VIDEODRIVER"] = "dummy"
     main()
+    #hey
